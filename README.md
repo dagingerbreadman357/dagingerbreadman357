@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Keon
 - 👀 I’m DevOps/ Cloud Engineer
 - 🌱 I’m currently learning AWS, Kubernetes, Terraform, and Python.
-- 🏈 In my spare time I officiate Football and Basketball at the Semi-Pro level and lower.
+- 🏈 In my spare time I officiate Football and Basketball at the Semi-Pro High School levels.
 - 🪓 Also into Woodworking as a hobby.
 
 Find out more about me & feel free to connect with me here:
